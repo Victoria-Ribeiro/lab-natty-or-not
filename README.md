@@ -11,7 +11,7 @@ Para este projeto utilizei o GAMMA, um criador de apresentação com IA generati
 O processo de criação é simples, como qualquer IA generativa você precisa ser assertivo quanto ao prompt e ir ajustando seus desejos quanto a cores, quantidade de slide etc.
 
 ## 🚀 Resultados
-
+O resultado da apresentação esta neste mesmo repositório com o nome de Separação e descarte de lixo reciclável 
 
 
 
